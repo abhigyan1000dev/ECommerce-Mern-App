@@ -1,4 +1,4 @@
-# Ecommerce_MERN ROVERCOM
+# Ecommerce_MERN
 
 ## Deployed version :: [https://rovercom.herokuapp.com/](https://rovercom.herokuapp.com/)
 
